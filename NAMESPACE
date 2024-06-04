@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(stats, setNames)
+import(Biostrings)
+import(Rcpp)
+useDynLib(DNAmotif, .registration = TRUE)

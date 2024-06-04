@@ -1,0 +1,8 @@
+3715d8248cd1cc310001dad631c35296 *DESCRIPTION
+51d1d54fb7ac52bd78001577c6a37b3f *NAMESPACE
+f9717fe8dbc67c8e8387387decd8996f *R/DNAmotif.R
+e14ccb7fe5c278dbeb805fabccd05fbd *R/RcppExports.R
+9d65092a7d63abe3cec41133b8bbcb8e *inst/exdata/sample.fasta
+4f7aa0e3aab1c77edd7d171aec6fc4db *man/DNAmotif.Rd
+97991dc339c0ce01dcac255fb7d8c50f *src/Motif.cpp
+5d0db774d27d7753b2ff10d3206b322c *src/RcppExports.cpp
